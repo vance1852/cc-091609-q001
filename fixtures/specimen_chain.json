@@ -1,0 +1,1 @@
+{"submission":"herb-2026-091","declaredName":"川贝母","specimens":[{"id":"sealed-a","massGrams":240,"seal":"S-881"},{"id":"micro-a","parent":"sealed-a","massGrams":8},{"id":"dna-a","parent":"sealed-a","massGrams":5}],"events":[{"kind":"seal-dispute","specimen":"sealed-a"},{"kind":"late-result","test":"dna-barcode"}]}
